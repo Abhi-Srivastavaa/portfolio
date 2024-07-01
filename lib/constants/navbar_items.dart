@@ -10,8 +10,8 @@ final List<String> navBarTitle = [
 
 List<IconData> navIcons = [
   Icons.home,
-  Icons.android_outlined,
-  Icons.back_hand,
+  Icons.handyman,
+  Icons.apps,
   Icons.web,
   Icons.quick_contacts_mail
 ];

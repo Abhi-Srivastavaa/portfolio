@@ -14,9 +14,9 @@ ThemeData kCustomTheme = ThemeData.dark().copyWith(
       ),
       fixedSize: const Size.fromHeight(45),
       textStyle: const TextStyle(
-        fontWeight: FontWeight.bold,
-        fontSize: 16,
-      ),
+          fontWeight: FontWeight.bold,
+          fontSize: 16,
+          color: CustomColor.whitePrimary),
     ),
   ),
 );

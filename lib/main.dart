@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:my_portfolio/pages/home_page.dart';
 import 'package:my_portfolio/styles/theme.dart';
 
-void main() {
+void main() async {
   runApp(const MyApp());
 }
 
